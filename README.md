@@ -7,11 +7,11 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+- https://firebase.google.com/docs/firestore/manage-data/add-data
+- https://firebase.google.com/docs/firestore/manage-data/delete-data#java
+- https://stackoverflow.com/questions/8846707/how-to-implement-a-long-click-listener-on-a-listview
 
 ## Verbal Collaboration
 
 | Student Name | CCID     |
 | ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
