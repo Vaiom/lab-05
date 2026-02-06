@@ -1,5 +1,7 @@
 # CMPUT 301 : Lab 5 - Firestore
 
+Please use your own google-services.json
+
 ## Student Details
 
 - **Full Name:** `Bryant Liu`
